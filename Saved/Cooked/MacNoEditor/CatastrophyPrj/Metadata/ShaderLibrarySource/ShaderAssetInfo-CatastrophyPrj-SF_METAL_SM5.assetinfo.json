@@ -1,0 +1,259 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "55E4E6E40BB2FD198EDB4159E2A81E3490B9B5AA",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1204C7C6BD404954B41313901A16932E1D5708CD",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "667BFF5954A34BA9908567DA54DABD0B01DB1B9C",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "87DD6C4346EBC1CD96CE82A46F4B1186ECC9C881",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DBB98A52C50BD8DCE629378691246CCE22D947CD",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B48E2A4916D9EAFFE257EA2885FC9A41A262299",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "E06E7B189A3E3898BF72AE9085F4E22D9B4C6CDB",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "1A63B376FD77E5FC6D50DE3EBA08574A7F72B101",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "7DD1309B2DBF01329A0C307C8780EDEB9137D3BF",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "5C1049A991FD1240CD0CF7898F146D4076BDE782",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0BDBFFFE7B5C0DE38D128FBD3F623DCFD1D9896E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A10B70BE9D65F2328871CD95F54E3B19161DD2B5",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "52E2255A88FD130B6B77340DBF97AFB4A48EC810",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "88806DF884745208BC48650E3F227937B80C51EB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A7696B1258406BC819FECE41F1808CF891144F90",
+			"Assets": [
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "CE08ADC77EDA16A645621A35957D868B2F33C79E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "FF806F48DABB89AAF58CCECA9BF49B644F6141FE",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "69B3DD2AC425D3BE61B703EFFC140DCC3DCB430D",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F04F4DDDEA0FA7A47635D01C992CAED0A4855AED",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "12121B1D6ADD859004116903984783E154097A12",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "88F66FA7671DFB28ACEE222C21225B75035FE399",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "9E1BD16DF9444B87693B84C8DA273EC72C39F79D",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "CD08D4B88724504881E1474FBBFE657A8932EF5B",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D0A0B20A315FFBBE94EE742B9335C711DDED94FD",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "FBCA05C2046AFE2419AE6A0551B3C76EC44E3A44",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CF64DF4B8D148776FF9BE6EE11747A01F6556603",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4AD7451BB42F4AB7DB9533D955072F9411455E6B",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B62C1BDF50430D92BF2F7451537A3A310A584FCE",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6F98C310082689BACDB19977C55767554C807F61",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "D1FBFF49DE25BCDCA6A74F207813400D065D3AF8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "B301522D49B8FAE0D17D102FA9B115FADF8E7ED6",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "9E50E6944822A3A2290C372FDFE46DEF63B113CB",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "07CC801CE5632046FD5432EEE39948E10B30BF9D",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D30236F2BD80BE64D57241405A71B22E9AFA4CD3",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "97EAFB1CA01291903B165177EBEF9B25444B1937",
+			"Assets": [
+				"/Game/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "2E4EF9413B5E28E7D77E413ECAD64D5FBA0E0E78",
+			"Assets": [
+				"/Game/Layout/Living_Room/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "D3EBE549569C97246422828DB42290FCEFB2837A",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "A3F529FD5EBE3793374A42634C685E758263433C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "A5BEA0CC37D0CC521A2F96825F65DFFA4818CD9E",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "7BC11D2392C86E248716C63067FFEC1BD23C55BA",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "5F65EF9A8EE32D780D869F01A5808950E74B5F75",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6EA78A091D3123605A6A45876DCD4C41E363F2A7",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		}
+	]
+}
