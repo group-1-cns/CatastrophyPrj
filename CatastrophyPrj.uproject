@@ -43,14 +43,6 @@
 		{
 			"Name": "AutomationUtils",
 			"Enabled": false
-		},
-		{
-			"Name": "ControlRig",
-			"Enabled": true
-		},
-		{
-			"Name": "FullBodyIK",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
