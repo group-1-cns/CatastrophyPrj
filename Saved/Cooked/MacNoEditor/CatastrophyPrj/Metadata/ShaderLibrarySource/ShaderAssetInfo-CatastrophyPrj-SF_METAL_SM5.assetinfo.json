@@ -2,257 +2,1162 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "55E4E6E40BB2FD198EDB4159E2A81E3490B9B5AA",
+			"ShaderMapHash": "4958CA7A13F55059BC64ED72F6E3FF878D7F0136",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "1204C7C6BD404954B41313901A16932E1D5708CD",
+			"ShaderMapHash": "F69E535DEA633BAB1BD13080E2BDBDEB5B0851E3",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "667BFF5954A34BA9908567DA54DABD0B01DB1B9C",
+			"ShaderMapHash": "A3FF1D606F0C96BEE65F25EE2D7AEB10FE6CE37C",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
 			]
 		},
 		{
-			"ShaderMapHash": "87DD6C4346EBC1CD96CE82A46F4B1186ECC9C881",
+			"ShaderMapHash": "2904C5D188774C495A383B37A217748F1871D817",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "DBB98A52C50BD8DCE629378691246CCE22D947CD",
+			"ShaderMapHash": "08F5FCB21B5FE34185A9CFA4FBB5C937ED540516",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "7B48E2A4916D9EAFFE257EA2885FC9A41A262299",
+			"ShaderMapHash": "DB5808AF2A2C10AA18B5CFC9CD4BF28F3589DF06",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "E06E7B189A3E3898BF72AE9085F4E22D9B4C6CDB",
+			"ShaderMapHash": "26FFB26F24022F42E1E3B44389A343E73D660B7F",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
 			]
 		},
 		{
-			"ShaderMapHash": "1A63B376FD77E5FC6D50DE3EBA08574A7F72B101",
+			"ShaderMapHash": "7F911B3022B09CEB97324C19B18F1A623C0C2130",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
 			]
 		},
 		{
-			"ShaderMapHash": "7DD1309B2DBF01329A0C307C8780EDEB9137D3BF",
+			"ShaderMapHash": "650C360AE2B958AB30F2FCAE5A7F8935B9E950B3",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
-			"ShaderMapHash": "5C1049A991FD1240CD0CF7898F146D4076BDE782",
+			"ShaderMapHash": "94EA3091CFAD2A6283795B6BD1EB8BC292730379",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "0BDBFFFE7B5C0DE38D128FBD3F623DCFD1D9896E",
+			"ShaderMapHash": "635D62399DAFC435E5605812485C907AB26441F2",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "A10B70BE9D65F2328871CD95F54E3B19161DD2B5",
+			"ShaderMapHash": "07477633F87AC5F7C3276207845F60A596F47971",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/WireframeMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "52E2255A88FD130B6B77340DBF97AFB4A48EC810",
+			"ShaderMapHash": "A4D0C9D020B2B25C23AB62311C101E02B2513946",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/VertexColorMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "88806DF884745208BC48650E3F227937B80C51EB",
+			"ShaderMapHash": "25AD28AA6D71F69398B5B9D501F9F2444F78DCC9",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "A7696B1258406BC819FECE41F1808CF891144F90",
+			"ShaderMapHash": "64A25715C95B80E790D21B9907D167F1C49799CB",
 			"Assets": [
 				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
 			]
 		},
 		{
-			"ShaderMapHash": "CE08ADC77EDA16A645621A35957D868B2F33C79E",
+			"ShaderMapHash": "85A9E1A562034569A7A24E8A922D273C1D3B327E",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "B1A73FCCFE550691F56E3A6F9980B8F12E516F7F",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
 			]
 		},
 		{
-			"ShaderMapHash": "FF806F48DABB89AAF58CCECA9BF49B644F6141FE",
+			"ShaderMapHash": "51200E3236F5995696D358BBC4B72DCE2D30C48E",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
 			]
 		},
 		{
-			"ShaderMapHash": "69B3DD2AC425D3BE61B703EFFC140DCC3DCB430D",
+			"ShaderMapHash": "DC0DF718D16349C6A7DF9464E4A43F4790E57232",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
 			]
 		},
 		{
-			"ShaderMapHash": "F04F4DDDEA0FA7A47635D01C992CAED0A4855AED",
+			"ShaderMapHash": "6F80AC545141A660ACC80F24687481ED9C55BD91",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
 			]
 		},
 		{
-			"ShaderMapHash": "12121B1D6ADD859004116903984783E154097A12",
+			"ShaderMapHash": "4F5FBF30BA5EC7535E8BBAC3090F5F53B7C25347",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
 				"/Engine/EngineMaterials/Widget3DPassThrough"
 			]
 		},
 		{
-			"ShaderMapHash": "88F66FA7671DFB28ACEE222C21225B75035FE399",
+			"ShaderMapHash": "82AE136D42B8D9D988F063D755018E5532700B9A",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
 			]
 		},
 		{
-			"ShaderMapHash": "9E1BD16DF9444B87693B84C8DA273EC72C39F79D",
+			"ShaderMapHash": "9E329D714056C1C79B8BEB6F8D1F52FBB858168B",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
 			]
 		},
 		{
-			"ShaderMapHash": "CD08D4B88724504881E1474FBBFE657A8932EF5B",
+			"ShaderMapHash": "DCC28B23ABFF3D5ADADAA6FBC98CFF9358E31D67",
 			"Assets": [
 				"/Engine/EngineMaterials/BaseFlattenMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "D0A0B20A315FFBBE94EE742B9335C711DDED94FD",
+			"ShaderMapHash": "4036416A0DC9D3A1DCBA91E7281D2070BFA22396",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
 			]
 		},
 		{
-			"ShaderMapHash": "FBCA05C2046AFE2419AE6A0551B3C76EC44E3A44",
+			"ShaderMapHash": "E597BA994F0B6F186A250320A96422EC74FF971E",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "CF64DF4B8D148776FF9BE6EE11747A01F6556603",
+			"ShaderMapHash": "94092842D3FBCEC335AEDC54227BF995243C8ACF",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "4AD7451BB42F4AB7DB9533D955072F9411455E6B",
+			"ShaderMapHash": "920F371EA592D89C4FA1F4D0152D6E143431B139",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "B62C1BDF50430D92BF2F7451537A3A310A584FCE",
+			"ShaderMapHash": "A055EC26843CA61FF4166A1A8BA8A0774D2AEBE5",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "6F98C310082689BACDB19977C55767554C807F61",
+			"ShaderMapHash": "B21926B1F89DA16D05958996A2C1F8E9ECDF650B",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
 			]
 		},
 		{
-			"ShaderMapHash": "D1FBFF49DE25BCDCA6A74F207813400D065D3AF8",
+			"ShaderMapHash": "217F9A2EA4EADAB5D93D7719FF3B1E0A2D7161C0",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1A1CAF4CFDF0F4D7500055E9CCDE5CE76409FE3B",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial",
+				"/Game/GameContents/doll/lambert6"
+			]
+		},
+		{
+			"ShaderMapHash": "5A3FBD9032D8EB5B74594CA28329C79BCCE57562",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
 			]
 		},
 		{
-			"ShaderMapHash": "B301522D49B8FAE0D17D102FA9B115FADF8E7ED6",
+			"ShaderMapHash": "06E79DE7816004B27D4E50E6F2F4B1F3115C2F32",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
 			]
 		},
 		{
-			"ShaderMapHash": "9E50E6944822A3A2290C372FDFE46DEF63B113CB",
+			"ShaderMapHash": "C352127F1B69D7B93C06FAA63C8DDDE89DB0334D",
 			"Assets": [
 				"/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "07CC801CE5632046FD5432EEE39948E10B30BF9D",
+			"ShaderMapHash": "3A334570EF7A3142CF80CB7E4690E6ADFF878432",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+				"/Game/Materials/M_letter_santa",
+				"/Game/GameContents/pencil/eraser",
+				"/Game/Materials/doll/M_doll_skin",
+				"/Game/GameContents/light_switch/lambert2",
+				"/Game/GameContents/chair/lambert1",
+				"/Game/Materials/desk/M_desk_base",
+				"/Game/Materials/door/M_door_wood",
+				"/Game/Materials/doll/M_doll_skirt",
+				"/Game/Materials/doll/M_doll_mouth",
+				"/Game/Materials/doll/M_doll_shirt",
+				"/Game/Materials/wall_doorway/M_wall-doorway_basecolor",
+				"/Game/Materials/wall_corner/M_wall-corner_color"
 			]
 		},
 		{
-			"ShaderMapHash": "D30236F2BD80BE64D57241405A71B22E9AFA4CD3",
+			"ShaderMapHash": "C1777ED73680C8C1E94C81D883BFAEE5D06E6AFD",
 			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
+				"/Game/Cat_Animations/lambert2"
 			]
 		},
 		{
-			"ShaderMapHash": "97EAFB1CA01291903B165177EBEF9B25444B1937",
+			"ShaderMapHash": "80FF0A54FCDFF03A341046F4CC7EAB8106D8BB42",
 			"Assets": [
-				"/Game/lambert1"
+				"/Game/Materials/M_couch",
+				"/Game/Materials/M_plant-leafysmall",
+				"/Game/Materials/M_rug",
+				"/Game/Materials/M_plant-splitleaf",
+				"/Game/Materials/M_largeplant1",
+				"/Game/Materials/M_mug-empty",
+				"/Game/Materials/M_openbook",
+				"/Game/Materials/M_bookshelf"
 			]
 		},
 		{
-			"ShaderMapHash": "2E4EF9413B5E28E7D77E413ECAD64D5FBA0E0E78",
+			"ShaderMapHash": "BF410CC1C06E39BFE1948F940F68CFC0596ECC4A",
 			"Assets": [
-				"/Game/Layout/Living_Room/lambert1"
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
 			]
 		},
 		{
-			"ShaderMapHash": "D3EBE549569C97246422828DB42290FCEFB2837A",
+			"ShaderMapHash": "88B06EBC9214172F0DE746CBB4359CF1B38C9700",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "D3CCF86F57A7DB83D79F8E3D082140B893D1EC13",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "FDA508CBCD25B9B3A8F3640F5BEE8BF0D7C7E87D",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "8F1D481041288105B6AA3460497133080EFF2AAA",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "B04FB372E533CC997E86EB68BFBD01307857C775",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "A71DA804E55CAB63FBF7FD0B272AF12DF383C71B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "DF7D2897E073407F1A265A6DF98DBEAE6D666E74",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "D6784B6A305BD644126E897BDADFFDF246999D2C",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
-			"ShaderMapHash": "A3F529FD5EBE3793374A42634C685E758263433C",
+			"ShaderMapHash": "3EB8AED5BB069D826A7E36F5127267E8E079C95E",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F77C2116A1804FB1C3E49E30454FC04C691A29AD",
+			"Assets": [
+				"/Game/Materials/M_floor_wood"
+			]
+		},
+		{
+			"ShaderMapHash": "7AFD2BD77F61C8BEECE2F226333CE92B5881D9F3",
+			"Assets": [
+				"/Game/GameContents/door/metal",
+				"/Game/GameContents/door/wood",
+				"/Game/GameContents/door/trim",
+				"/Game/GameContents/pencil/lambert2",
+				"/Game/GameContents/glass_milk/milk",
+				"/Game/GameContents/snowglode/redhat",
+				"/Game/GameContents/snowglode/lambert21",
+				"/Game/GameContents/snowglode/lambert19",
+				"/Game/GameContents/snowglode/lambert17",
+				"/Game/GameContents/snowglode/hatball",
+				"/Game/GameContents/snowglode/green",
+				"/Game/GameContents/snowglode/bBlue",
+				"/Game/GameContents/snowglode/lambert4",
+				"/Game/GameContents/snowglode/lambert16",
+				"/Game/GameContents/snowglode/lambert5",
+				"/Game/GameContents/cookie/cookie",
+				"/Game/GameContents/cookie/chocolate_chip",
+				"/Game/GameContents/scissors/plastic",
+				"/Game/GameContents/scissors/metal",
+				"/Game/GameContents/frame_standing/frame",
+				"/Game/GameContents/frame_standing/back_part",
+				"/Game/GameContents/ruler/lambert1",
+				"/Game/GameContents/christmas_light-single/lambert2",
+				"/Game/GameContents/Cactus_PlantLow/lambert1",
+				"/Game/GameContents/frame_picture_4/frame",
+				"/Game/GameContents/stapler/metal",
+				"/Game/GameContents/stapler/black",
+				"/Game/GameContents/mat_welcome/lambert2",
+				"/Game/GameContents/fireplace/lambert29",
+				"/Game/GameContents/lambert1",
+				"/Game/GameContents/lambert10",
+				"/Game/GameContents/lambert9"
+			]
+		},
+		{
+			"ShaderMapHash": "1475B660FD5B9A11032F617DDB09DF387822ADE7",
+			"Assets": [
+				"/Game/Materials/M_book1-red",
+				"/Game/Materials/M_bookthick",
+				"/Game/Materials/M_book1-brown",
+				"/Game/Materials/M_book1-green"
+			]
+		},
+		{
+			"ShaderMapHash": "1211A41F144477213777D86A48191685F5D77A98",
+			"Assets": [
+				"/Game/GameContents/pencil/yellow_part"
+			]
+		},
+		{
+			"ShaderMapHash": "5BD32B012FC02525D80B6BBEB11004DC69B579B5",
+			"Assets": [
+				"/Game/GameContents/pencil/metal"
+			]
+		},
+		{
+			"ShaderMapHash": "98962B23E7ED39927368B13E44F93842A78D61F4",
+			"Assets": [
+				"/Game/GameContents/pencil/lighter_pencil",
+				"/Game/GameContents/pencil/lead"
+			]
+		},
+		{
+			"ShaderMapHash": "2B882FC781A5A2D5AE64E0D3D4310021EB4C8C4B",
+			"Assets": [
+				"/Game/GameContents/glass_milk/glass"
+			]
+		},
+		{
+			"ShaderMapHash": "DE81D3B1BA282653D4785EA662F70E367CD84643",
+			"Assets": [
+				"/Game/GameContents/snowglode/lambert15"
+			]
+		},
+		{
+			"ShaderMapHash": "9A6E81AEC2A5B445AE732E98F8142B4814FBBF60",
+			"Assets": [
+				"/Game/GameContents/snowglode/flakes",
+				"/Game/Materials/candles/M_candle_needles"
+			]
+		},
+		{
+			"ShaderMapHash": "60B61FB1C5877918DCF76BB2E2706D7723308351",
+			"Assets": [
+				"/Game/GameContents/snowglode/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "1691069AB408AAB28827076D2150AF2C09FF5881",
+			"Assets": [
+				"/Game/Materials/light_ceiling/M_light_ceiling-base",
+				"/Game/GameContents/desk/metal",
+				"/Game/Materials/gift_3/M_gift3_ribbon",
+				"/Game/Materials/scissors/M_scissors_metal",
+				"/Game/Materials/scissors/M_scissors_plastic",
+				"/Game/Materials/coat_rack/M_coatrack_metal",
+				"/Game/Materials/stapler/M_stapler_metal",
+				"/Game/Materials/radio/M_radio_trim",
+				"/Game/Materials/radio/M_radio_innerlayer",
+				"/Game/Materials/radio/M_radio_antenna"
+			]
+		},
+		{
+			"ShaderMapHash": "67055171BA7D1288ED1C33E0065A70C4482F225E",
+			"Assets": [
+				"/Game/Materials/light_ceiling/M_light_ceiling"
+			]
+		},
+		{
+			"ShaderMapHash": "F97F10B278F0302C4DE570D88145C59B964B52F8",
+			"Assets": [
+				"/Game/Materials/M_table_diningroom",
+				"/Game/Materials/wall_window/M_wall_window_basecolor",
+				"/Game/Materials/cup_milk/M_cup_milk",
+				"/Game/Materials/wall_window/M_wall_window_wood",
+				"/Game/Materials/M_plate",
+				"/Game/Materials/radio/M_radio_wood",
+				"/Game/Materials/radio/M_radio_texturedmaterial",
+				"/Game/Materials/radio/M_radio_supports",
+				"/Game/Materials/radio/M_radio_mainbuttonouter",
+				"/Game/Materials/radio/M_radio_mainbuttoninner",
+				"/Game/Materials/radio/M_radio_darkerwood",
+				"/Game/Materials/radio/M_radio_buttons"
+			]
+		},
+		{
+			"ShaderMapHash": "A2DE8A569B589FED6EF3C1477619C320293F7355",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "F7500543862AD4FCAD5AFF9105C3B3578E2FD2F8",
+			"Assets": [
+				"/Game/Materials/M_wall-doublesided"
+			]
+		},
+		{
+			"ShaderMapHash": "09929D0E713853D2F27DFEBCE0B231DFDA1A2DB6",
+			"Assets": [
+				"/Game/GameContents/shelf/lambert3",
+				"/Game/GameContents/shelf/lambert2",
+				"/Game/GameContents/shelf/lambert1",
+				"/Game/GameContents/ornament_spiral/lambert1",
+				"/Game/GameContents/light_switch/metal",
+				"/Game/Materials/doll/M_doll_band",
+				"/Game/Materials/doll/M_doll_shoes",
+				"/Game/Materials/doll/M_doll_earmuffs",
+				"/Game/Materials/doll/M_doll_buttons",
+				"/Game/GameContents/ornament_sphere/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "095A3332246E491001C6F739137185033FE23CE2",
+			"Assets": [
+				"/Game/GameContents/coat_rack/wood",
+				"/Game/GameContents/coat_rack/drap_part_coat",
+				"/Game/GameContents/coat_rack/coat",
+				"/Game/GameContents/coat_rack/metal",
+				"/Game/GameContents/doll/hair",
+				"/Game/GameContents/doll/button",
+				"/Game/GameContents/doll/lambert4",
+				"/Game/GameContents/doll/lambert8",
+				"/Game/GameContents/doll/lambert1",
+				"/Game/GameContents/doll/lambert7",
+				"/Game/GameContents/doll/lambert5",
+				"/Game/GameContents/wall_door/reworked_door_wall/trim",
+				"/Game/GameContents/plate/lambert1",
+				"/Game/GameContents/wall_doorway/lambert6",
+				"/Game/GameContents/wall_doorway/lambert7",
+				"/Game/GameContents/wall_corner/lambert2",
+				"/Game/GameContents/wall_corner/lambert3",
+				"/Game/GameContents/lamp/metal1",
+				"/Game/GameContents/lamp/button",
+				"/Game/GameContents/lamp/lightbulb1",
+				"/Game/GameContents/lamp/lambert1",
+				"/Game/GameContents/radio/lighter_wood",
+				"/Game/GameContents/radio/buttons",
+				"/Game/GameContents/radio/wood",
+				"/Game/GameContents/radio/supports",
+				"/Game/GameContents/radio/main_button_outer",
+				"/Game/GameContents/radio/inner_layer",
+				"/Game/GameContents/radio/goldish_trim",
+				"/Game/GameContents/radio/main_button_middle",
+				"/Game/GameContents/radio/textured_material",
+				"/Game/GameContents/radio/embellishments",
+				"/Game/GameContents/radio/antenna",
+				"/Game/GameContents/Layout/Living_Room/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "E8BD83E9FB527985BBBBD3767C755D5A48C87613",
+			"Assets": [
+				"/Game/GameContents/ceiling/lambert1",
+				"/Game/GameContents/cup_pencilholder/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "7EA97782FD469A08600F1C77581109F53C1EE0AA",
+			"Assets": [
+				"/Game/Materials/stocking/M_stocking_whitefluff",
+				"/Game/Materials/stocking/M_stocking_redpart"
+			]
+		},
+		{
+			"ShaderMapHash": "2C0AA8482053E023017D4A79C54D144F082DD815",
+			"Assets": [
+				"/Game/Materials/wall_window/M_wall_window_metal"
+			]
+		},
+		{
+			"ShaderMapHash": "5E66D8226A01342C832F86B5EEA264164EC235B8",
+			"Assets": [
+				"/Game/Materials/wall_window/M_wall_window_glass",
+				"/Game/Materials/cup_milk/M_cup_glass"
+			]
+		},
+		{
+			"ShaderMapHash": "E9C2AF97697DC9FD751FED01E13870C2A6A50517",
+			"Assets": [
+				"/Game/GameContents/christmas_light-single/M_christmas_light-single"
+			]
+		},
+		{
+			"ShaderMapHash": "D63C2C1CF6EBABB8C69DC6697C83DCA5B6F5E582",
+			"Assets": [
+				"/Game/Materials/M_cactusplant"
+			]
+		},
+		{
+			"ShaderMapHash": "FA6821C5A0EE84BA15A5619D7057233AAC366A59",
+			"Assets": [
+				"/Game/GameContents/wall_door/reworked_door_wall/windows",
+				"/Game/Materials/picture_frame3/M_frame3_glass",
+				"/Game/GameContents/curtain/curtain",
+				"/Game/Materials/fireplace/M_fireplace_glas"
+			]
+		},
+		{
+			"ShaderMapHash": "473F28690279563B08F821FAB79DFE73BD08CCDC",
+			"Assets": [
+				"/Game/GameContents/wall_door/reworked_door_wall/lambert2",
+				"/Game/Materials/bench/M_bench_legs",
+				"/Game/Materials/bench/M_bench_basefeet",
+				"/Game/Materials/bench/M_bench_planks",
+				"/Game/Materials/lamp/M_lamp_basecolor",
+				"/Game/Materials/lamp/M_lamp_lightbulb"
+			]
+		},
+		{
+			"ShaderMapHash": "814F7262E27CDAA8DEA1D8A5F0BDADB769377B98",
+			"Assets": [
+				"/Game/GameContents/frame_picture_4/lambert2",
+				"/Game/GameContents/frame_standing/picture_part"
+			]
+		},
+		{
+			"ShaderMapHash": "0EB0662A270C316BF3B0F306BEFEEF4B90900923",
+			"Assets": [
+				"/Game/GameContents/frame_picture_4/picture"
+			]
+		},
+		{
+			"ShaderMapHash": "537ABAF6C9D86DFBD492F6AB9DAAC8D72F9B927E",
+			"Assets": [
+				"/Game/GameContents/frame_picture_3/frame",
+				"/Game/GameContents/wood_holder/lambert1",
+				"/Game/GameContents/mat_welcome/lambert1",
+				"/Game/GameContents/desk/drawers",
+				"/Game/GameContents/desk/backwood",
+				"/Game/Materials/desk/M_desk_shelves",
+				"/Game/GameContents/Tree_Christmas/bark",
+				"/Game/Materials/candles/M_candle_wick",
+				"/Game/Materials/candles/M_candle_pinecone",
+				"/Game/Materials/coat_rack/M_coat-cuff",
+				"/Game/Materials/coat_rack/M_coatrack_wood",
+				"/Game/Materials/coat_rack/M_coat",
+				"/Game/Materials/M_ruler",
+				"/Game/GameContents/Tree_Cat/darker_carpet"
+			]
+		},
+		{
+			"ShaderMapHash": "CD6D515A6955CE3843B8F03B5A709D57D9FC5B86",
+			"Assets": [
+				"/Game/Materials/picture_frame3/M_frame3_picture",
+				"/Game/GameContents/wood_holder/inner_wood",
+				"/Game/Materials/gift_3/M_gift3_lid",
+				"/Game/Materials/picture_frame3/M_frame3_flower2",
+				"/Game/Materials/picture_frame3/M_frame3_homesweethome",
+				"/Game/Materials/picture_frame3/M_frame3_homeforholidays",
+				"/Game/Materials/picture_frame3/M_frame3_leaf",
+				"/Game/Materials/picture_frame3/M_frame3_splitleaf",
+				"/Game/Materials/picture_frame3/M_frame3_flower",
+				"/Game/Materials/picture_frame3/M_frame3_behappy",
+				"/Game/Materials/picture_frame3/M_frame3_mushroom"
+			]
+		},
+		{
+			"ShaderMapHash": "0FED4E5B4B99CA6CB92AF7D7F88BD103BEFEA0AC",
+			"Assets": [
+				"/Game/GameContents/wood_holder/metal"
+			]
+		},
+		{
+			"ShaderMapHash": "F422CF3A72F779BF0BDE673D46CE839687E57019",
+			"Assets": [
+				"/Game/GameContents/shoe/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "A80B4BC797F2D73C92F0E1B7DA43FEAFE765A956",
+			"Assets": [
+				"/Game/GameContents/curtain/metal"
+			]
+		},
+		{
+			"ShaderMapHash": "96348D1B396C5E763B6B5EEF3B0A9A4359BD23D6",
+			"Assets": [
+				"/Game/Materials/fireplace/M_fireplace_wood"
+			]
+		},
+		{
+			"ShaderMapHash": "DF041B35169BF12508181B62C2A2F65E472C78F0",
+			"Assets": [
+				"/Game/Materials/fireplace/M_fireplace_backwall",
+				"/Game/Materials/fireplace/M_fireplace_brickdark",
+				"/Game/Materials/fireplace/M_fireplace_bricklight",
+				"/Game/Materials/gift_3/M_gift3_box",
+				"/Game/Materials/gift_2/M_gift-2_box",
+				"/Game/Materials/gift_2/M_gift-2_lid",
+				"/Game/Materials/candles/M_candle_wax",
+				"/Game/Materials/picture_frame3/M_frame3"
+			]
+		},
+		{
+			"ShaderMapHash": "08261D4B9DC1C70231FCAE0F4F160EE28A756396",
+			"Assets": [
+				"/Game/Materials/fireplace/M_fireplace_metal",
+				"/Game/Materials/gift_2/M_gift-2_ribbon",
+				"/Game/Materials/stapler/M_stapler_base"
+			]
+		},
+		{
+			"ShaderMapHash": "6CDEDA21F51F7A8E17A20E4F6C9D8D05657924DC",
+			"Assets": [
+				"/Game/GameContents/clock_cat/white_clock_parts",
+				"/Game/GameContents/clock_cat/claws",
+				"/Game/GameContents/clock_cat/bow",
+				"/Game/GameContents/clock_cat/black_of_eyes",
+				"/Game/GameContents/clock_cat/eye"
+			]
+		},
+		{
+			"ShaderMapHash": "55E6FCE48E2CDFA0A2266BD30D4DF306C33FFF0A",
+			"Assets": [
+				"/Game/GameContents/clock_cat/black"
+			]
+		},
+		{
+			"ShaderMapHash": "9B4BCF488641C67849725814950D3FFBFB44D4F7",
+			"Assets": [
+				"/Game/GameContents/Tree_Christmas/pine_needles"
+			]
+		},
+		{
+			"ShaderMapHash": "24AC8F90DE7ECCABA459339B62FC5B08B7DBF12C",
+			"Assets": [
+				"/Game/GameContents/Tree_Christmas/base",
+				"/Game/GameContents/apples/applea"
+			]
+		},
+		{
+			"ShaderMapHash": "A315CEF35D0B7E23AD57FAAFD659AA8566BE0ED8",
+			"Assets": [
+				"/Game/GameContents/Tree_Christmas/star"
+			]
+		},
+		{
+			"ShaderMapHash": "3877E2203DC5D14CEB6E31C0E98C7F163A6C6D8B",
+			"Assets": [
+				"/Game/Materials/door/M_door_metal"
+			]
+		},
+		{
+			"ShaderMapHash": "7FDAB522648A4976C62A6705863BBF15D5A9F8B3",
+			"Assets": [
+				"/Game/Materials/doll/M_doll_hair"
+			]
+		},
+		{
+			"ShaderMapHash": "2C931837192575073F30FE43B4930605C373D6E6",
+			"Assets": [
+				"/Game/Materials/clock_cat/M_catclock_claws",
+				"/Game/Materials/clock_cat/M_catclock_white",
+				"/Game/Materials/clock_cat/M_catclock_black-of-eyes",
+				"/Game/Materials/clock_cat/M_catclock_eyes",
+				"/Game/Materials/clock_cat/M_catclock_bow",
+				"/Game/Materials/clock_cat/M_catclock_black"
+			]
+		},
+		{
+			"ShaderMapHash": "677519D74B2F6C420593B2C665CA04EED19A2FC7",
+			"Assets": [
+				"/Game/Materials/lamp/M_lamp_buttons",
+				"/Game/Materials/lamp/M_lamp_metal"
+			]
+		},
+		{
+			"ShaderMapHash": "3F6BC332FFAD51BF530B4E49A9E57939CD3119BA",
+			"Assets": [
+				"/Game/Materials/OutlinesMat_PP"
+			]
+		},
+		{
+			"ShaderMapHash": "50465A82C69B32DB9C03E85D49982AA7F6A83477",
+			"Assets": [
+				"/Game/Materials/ThreeToneToon_PP"
+			]
+		},
+		{
+			"ShaderMapHash": "6B57B43895DD3810BB9F459E9D792D0CD03C12B8",
+			"Assets": [
+				"/Game/Materials/radio/M_radio_embellishments"
+			]
+		},
+		{
+			"ShaderMapHash": "6B6B3380A3E101EC74E66914E624C90E74465F77",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "98B78C3FB0463148056737141324233D7E6E018D",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "644E670CBE64F5581DDCCB0DFB4DAA65C32F9FAB",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "DCC5F94BD3D75756AD5C5DFC3D701472FC942E5E",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "3F29AE58FC390FC658E7A2FBADF85FB5D928D1B1",
+			"Assets": [
+				"/Game/Materials/M_coffeetable"
+			]
+		},
+		{
+			"ShaderMapHash": "AE7F47F3D494A828C22D8A77211617346EFA9715",
+			"Assets": [
+				"/Game/GameContents/Tree_Cat/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "DF76BE058E2636587007FD7561C512BF61D3477F",
+			"Assets": [
+				"/Game/GameContents/roomba/plasticy_1"
+			]
+		},
+		{
+			"ShaderMapHash": "65F015EFFC48155333EE3CD5A3B49775EFAC2378",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3F3D143E1584D4A26E58603C0C1FB501D3A84E59",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "06D5D4D766326C51967074D0DD63100378A93EA3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "46A4619E38F9E84AF68849E617ECC2B5BA1EF909",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "5A5DD3E4505E37D9EBBC53E0DD85FD9CFAB0B885",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "D5A171B247E682BB0B2750CEEA7E2671DBB6B18D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "71C5B50260A33B6C30E00DEF639A34163DB76C99",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "2EE4FD56097C67BD42E779169CE0926034BE97F3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "9B61781F1168C0AE7CFAD2A9DCBA0EDC9BF1986D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "97A0BDA86D6569C6ED49AC96FA9DFE6D23137FC6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "D2CD43F67BCEC1513BFE85AD29A11AD432098163",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "459B638C86247CDD53062F3188100ACDE66DA07C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "A00903DE98BA08FB58AAC237B240550D9C2AF7D0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "4500830B823110239DF853B81149220E6CE3AA0F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "42F3FC573E4FBBC3E8E563480491460785C31BA4",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "66E604D7AC304EE9B6485AE701F63A85DF43BEFC",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "CA41395164503AD5DE1086AFA25375BEB3410532",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "5D599A0BEE248078A96609664B25BD165E349D77",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "5B42263F829A948C981178981640CB1DFD23796E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "242872AAA9685D53744E393AAC28041A7F9F8BE4",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "2804E000DBEEA31A9B5BC12158B3575F7D5C3BE8",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "8A838AEDF586541955A744D01F8E10710B85B6F1",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "D3B2E230E99C75666AF4E11615253B37D19E0A9D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "169642DD3F38D4006BEA4E3B399A4A246CE10F80",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "540FA31A033991F2AF663C016AD49CA59377232F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "5E316EBF19644EC03724DF919A6AE41C2734C695",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "CA95E463B87A83132CF717DB0FDB16A2360E2A57",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "573859F53C7A5799BC767ECEA3184D8E911C940A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "4F00DED01A510C25E61438D960689CCAD5603A88",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "DBBEF5913048CA06F1980233F70DD15F1F71C8B8",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "7F536C0FC7EBB060DF61D9D4A12C4CA871A085CE",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "E385181720B3ECFD47BFC88A5197D8827F8A9398",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "B0724FEA617ADD784EAD0A87F3304BD57513114A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "A4A06DC675270711B4968B2384B6F1B1E5BAEE5D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "961C42423CC898BC5D3B2C977296E3A8A18002F0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "729B43493BBE068F1D9E1B6C2ED3B4A895486F67",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "CBB419BBAB68B0C8E6D790086AC592A5A533797E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "A61A9A71EF6CAA6073CD00E873CC2397F49D5264",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "316CD5DC4C8A25CC97A286175B0407AA3958B729",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "0CBA218B342C5D79E4BE41C3BC1045A8A5ABE187",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "AFBF640FAD8B6B1F01CE66053FB5C7AC8C57EF0B",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "BEDB5F79A53AF8F89D39BB524E96CF924C09CD3C",
+			"Assets": [
+				"/Game/Materials/candles/flame"
+			]
+		},
+		{
+			"ShaderMapHash": "60D4CB965709F162D8336A3537BDB00A655D64BA",
+			"Assets": [
+				"/Game/GameContents/wood_fireplace/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "257EBC5A02052BAE02C95A3B3BDCD3F231645F96",
+			"Assets": [
+				"/Game/GameContents/apples/stema"
+			]
+		},
+		{
+			"ShaderMapHash": "BE5F97F19709EBE73AC26DDD22AF22E6D982268A",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "CA12E6455F67646F2C9A86CA15959489C29EA8A2",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_AssetPlatform"
 			]
 		},
 		{
-			"ShaderMapHash": "A5BEA0CC37D0CC521A2F96825F65DFFA4818CD9E",
+			"ShaderMapHash": "FDC3C350F9285AE7428F0FDA5D33A1A994BE3F6C",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
 			]
 		},
 		{
-			"ShaderMapHash": "7BC11D2392C86E248716C63067FFEC1BD23C55BA",
+			"ShaderMapHash": "D0CF5D8EB6F9EA31A41A5B323B12C12F74771E10",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
 			]
 		},
 		{
-			"ShaderMapHash": "5F65EF9A8EE32D780D869F01A5808950E74B5F75",
+			"ShaderMapHash": "5E794AC0E271E476319C209D2B1415E59C5255D1",
+			"Assets": [
+				"/Game/GameContents/Tree_Cat/soft_wood"
+			]
+		},
+		{
+			"ShaderMapHash": "D1BCB8B355A3976FF4E66E18E548910F0762623D",
+			"Assets": [
+				"/Game/GameContents/frame_standing/lambert4"
+			]
+		},
+		{
+			"ShaderMapHash": "B2A3DA5A1A335533C9A9F8D38DDD6F70C0E4D431",
+			"Assets": [
+				"/Game/GameContents/Tree_Cat/carpet_floors"
+			]
+		},
+		{
+			"ShaderMapHash": "632458E50A52B40AD6BAC5EA3FDF04ED001FAB34",
+			"Assets": [
+				"/Game/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "4A07FB0C5E42D51CF9E062A266A283BEF58C16EA",
+			"Assets": [
+				"/Game/GameContents/roomba/surface_1"
+			]
+		},
+		{
+			"ShaderMapHash": "786D5596E79765888DAF781C12C3EED3839B5892",
+			"Assets": [
+				"/Game/GameContents/bowl/bowl"
+			]
+		},
+		{
+			"ShaderMapHash": "438DED4B52E47FB2A2EC96C137ED96A1EB604AF5",
 			"Assets": [
 				"/Game/Geometry/Meshes/CubeMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "6EA78A091D3123605A6A45876DCD4C41E363F2A7",
+			"ShaderMapHash": "95E4FC9A6626179F08CDDF6248FE7377F488E80F",
 			"Assets": [
-				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+				"/Game/Geometry/lambert1",
+				"/Game/Geometry/standardSurface1"
+			]
+		},
+		{
+			"ShaderMapHash": "EACC93A2555C1679E014910142660DA6E32C9A2B",
+			"Assets": [
+				"/Game/GameContents/roomba/button_1"
+			]
+		},
+		{
+			"ShaderMapHash": "B717104F0FAA3E87CD024BCAD2528AF2CBF81875",
+			"Assets": [
+				"/Game/GameContents/HalfWall_Low/lambert2",
+				"/Game/GameContents/HalfWall_Low/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "F8FE7CC31353DD15A53192FBE5B6A62D1864D8EC",
+			"Assets": [
+				"/Game/GameContents/roomba/rim_1"
+			]
+		},
+		{
+			"ShaderMapHash": "6368E4E8CDDECF91B10E1E997063F5271EDEA453",
+			"Assets": [
+				"/Game/Materials/fireplace/M_fireplace"
+			]
+		},
+		{
+			"ShaderMapHash": "A548C9E7E36E9BA6E775A02F1A6E0C64C7B5F850",
+			"Assets": [
+				"/Game/Materials/M_curtains"
+			]
+		},
+		{
+			"ShaderMapHash": "A35C932D11C975665E14B8508791DA35AFE04F41",
+			"Assets": [
+				"/Game/Materials/KuwaharaMaterial2_PP"
 			]
 		}
 	]
